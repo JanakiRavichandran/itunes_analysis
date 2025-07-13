@@ -43,8 +43,6 @@ The project includes **interactive Tableau dashboards** visualizing:
 - Support representative performance
 - Tracks never purchased and least popular artists
 
-🔗 [View Tableau Dashboard (if published)](YOUR_TABLEAU_PUBLIC_LINK)
-
 ---
 
 ## 📂 Folder Structure
